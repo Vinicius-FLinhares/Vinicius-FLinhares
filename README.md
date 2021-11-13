@@ -2,7 +2,7 @@
 - I am graduated at Theoretical Physics;
 - I am starting a carrer at web developer; 
 - I’m currently learning HTML,CSS,JS,React...;
-- I´m looking for my first job at this new branch of working;
+- I´m looking for a job at programming, software and web design;
 - My email: viniciuslee66@gmail.com ;
 
 <!---
