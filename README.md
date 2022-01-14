@@ -3,7 +3,7 @@
 - I am starting a carrer at web developer; 
 - I’m currently learning HTML,CSS,JS,React...;
 - I´m looking for a job at programming, software and web design;
-- My email: viniciuslee66@gmail.com ;
+- My email: vinicius.linhares@grad.ufsc.br ;
 
 <!---
 Vinicius-FLinhares/Vinicius-FLinhares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
